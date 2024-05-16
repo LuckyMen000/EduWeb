@@ -1,4 +1,4 @@
-## Demo: https://luckymen000.github.io/EduWeb/
+## Demo: https://luckymen000.github.io/EduWeb/.
 
 ![image](https://github.com/LuckyMen000/EduWeb/assets/107469663/96caf561-f3ec-43f8-88e0-6905a38eeb70)
 ![image](https://github.com/LuckyMen000/EduWeb/assets/107469663/2d1af80e-0749-4d3c-8f7c-ce6c1b958486)
